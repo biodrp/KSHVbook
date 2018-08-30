@@ -20,6 +20,6 @@
 
 ---
 
-## eg:
+## eg
 
 bash rose.sh -o iPS-DF-test  -i yes -a ENCSR086NVH -b ENCSR086NVH -c no -y ENCSR505OPZ |tee log.txt
